@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dennis E Abraham</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=denniseabraham&label=Profile%20views&color=0e75b6&style=flat" alt="denniseabraham" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=denniseabraham" alt="denniseabraham" /></a> </p>
-
 - 🌱 I’m currently learning **machine learning**
 
 - 📝 I regularly write my artistic thoughts on [https://thetimeforhope.blogspot.com/](https://thetimeforhope.blogspot.com/)
